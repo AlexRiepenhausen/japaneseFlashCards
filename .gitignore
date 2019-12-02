@@ -1,0 +1,7 @@
+# Ignore the following directories
+.git
+.idea
+__pycache__
+venv
+build
+
